@@ -6,3 +6,5 @@ operations like attacking player, searching for an useful item, retreating to th
 calling for help. In following project there was also added other techniques or functionalities, which
 are also useful to create the computer game. The whole project was made in the unity game
 environment.
+
+Gameplay Video : https://www.youtube.com/watch?v=ttIiaXwZ3uQ
